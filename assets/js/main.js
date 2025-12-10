@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){var b=document.getElementById("menuToggle");var n=document.getElementById("siteNav");if(b){b.addEventListener("click",function(){n.classList.toggle("open")})}})
